@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software Mobile`**
 
-Me chamo William Junio, tenho 29 anos e sou natural de Sertãozinho, São Paulo. Sou Engenheiro de Software, apaixonado por tecnologia e inovação. Desenvolvo soluções modernas com foco em performance, experiência do usuário e boas práticas de código. Trabalho com **Java**, **C#**, **React Native com Expo GO**, e utilizo ferramentas como **Firebase**, **Bitbucket**, **Trello** e **GitHub** no meu dia a dia de desenvolvimento.
+Me chamo William Junio, tenho 29 anos e sou natural de Sertãozinho, São Paulo. Sou Engenheiro de Software aqui na OMD, apaixonado por tecnologia e inovação. Desenvolvo soluções modernas com foco em performance, experiência do usuário e boas práticas de código. Trabalho com **Java**, **C#**, **React Native com Expo GO**, e utilizo ferramentas como **Firebase**, **Bitbucket**, **Trello** e **GitHub** no meu dia a dia de desenvolvimento.
 
 <p align="left">
   <a href="https://github.com/WilliamOMD?tab=repositories&sort=stargazers">
