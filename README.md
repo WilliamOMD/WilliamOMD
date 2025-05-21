@@ -49,3 +49,10 @@ Me chamo William Junio, tenho 29 anos e sou natural de Sertãozinho, São Paulo.
     height="180"
   />
 </p>
+
+---
+
+### 🐍 Animação do GitHub Snake
+
+![GitHub Snake Animation](https://github.com/WilliamOMD/WilliamOMD/raw/output/dist/github-snake.svg)
+
