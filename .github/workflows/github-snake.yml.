@@ -1,0 +1,33 @@
+name: GitHub Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  github-snake:
+    name: Gerar animação do GitHub Snake
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checar código
+      uses: actions/checkout@v3
+
+    - name: Configurar Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Instalar dependências
+      run: |
+        npm install
+
+    - name: Gerar animação GitHub Snake
+      uses: Platane/snk@v3
+      with:
+        # github user name to read the contribution graph from (WilliamOMD)
+        # usando a variável de contexto do Git
