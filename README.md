@@ -1,4 +1,4 @@
-# 👨🏻‍💻 William Junio
+# 👨🏻‍💻 William Junio.
 
 **`Engenheiro de Software Mobile`**
 
